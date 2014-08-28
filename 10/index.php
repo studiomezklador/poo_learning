@@ -1,5 +1,5 @@
 <?php
-// INHERITANCE (parent -> children)
+// INHERITANCE (parent -> children) part 1
 //
 
 require 'autoload.php'; // contains AUTOLOAD function
