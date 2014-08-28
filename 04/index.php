@@ -1,5 +1,5 @@
 <?php
-// Inheritance & Cloning
+// Copy & Cloning
 require 'User.php';
 
 // Create an Object based on User's Class
