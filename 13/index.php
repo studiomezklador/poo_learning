@@ -1,7 +1,8 @@
 <!-- JSON -->
 <?php
 // INTERFACES : sharing snippets of code between classes -> a "contract" telling which methods would be sharing between classes
-// See: User, Administrator(child of User), Member (child of User) & index
+// keywords: Interfaces, implementations, contract & polymorphism
+// See: Acme/App/Repositories -> PostRepository, PostJsonRepository & PostRssRepository
 
 require 'autoload.php'; // PSR-0 Autoloader
 
